@@ -1,7 +1,3 @@
-Here is a **detailed README** that you can use for your project. It outlines the entire process, from setup to running the app, and provides an overview of the project's components.
-
----
-
 # **English to Urdu Translation Model Using Transformer and LSTM**
 
 This project demonstrates the implementation of machine translation from **English to Urdu** using two models:
